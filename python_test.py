@@ -1,1 +1,1 @@
-print("ga sikime ye")
+pint("ga sikime ye")
